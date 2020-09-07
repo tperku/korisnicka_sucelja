@@ -1,0 +1,8 @@
+.layout {
+  background-color: #f7f7f9;
+  padding-right: 0 !important;
+}
+
+html {
+  overflow-y: scroll;
+}

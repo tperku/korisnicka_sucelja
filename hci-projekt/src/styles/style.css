@@ -1,0 +1,8 @@
+:root {
+  --primary-color: #dd3333;
+  --secondary-color: #eef6fa;
+}
+
+.modal-content {
+  background-color: #eef6fa;
+}

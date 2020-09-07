@@ -1,42 +1,75 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
 import React from "react"
+import { Link } from "gatsby"
+import { Navbar, NavbarBrand } from "reactstrap"
+import "bootstrap/dist/css/bootstrap.min.css"
+import HeaderStyle from "../components/componentsStyles/header.module.css"
+import logo from "../images/hrslogo.png"
 
-const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
+const Header = props => {
+  return (
+    <Navbar
+      className={HeaderStyle.navbar}
+      fixed="top"
+      light
+      expand="md"
+      width="100px"
     >
-      <h1 style={{ margin: 0 }}>
+      <NavbarBrand className={HeaderStyle.logo} href="/">
+        <img
+          className={HeaderStyle.logoImg}
+          src={logo}
+          alt="Logo"
+          width="100%"
+        />
+        <h1 className={HeaderStyle.logoName}>1HRL-JUG</h1>
+      </NavbarBrand>
+      <div className={HeaderStyle.navbarNames}>
         <Link
           to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
+          exact="true"
+          className={HeaderStyle.navbarName}
+          activeClassName={HeaderStyle.navbarName__active}
         >
-          {siteTitle}
+          NASLOVNICA
         </Link>
-      </h1>
-    </div>
-  </header>
-)
-
-Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
-
-Header.defaultProps = {
-  siteTitle: ``,
+        <Link
+          to="/rezultati"
+          className={HeaderStyle.navbarName}
+          activeClassName={HeaderStyle.navbarName__active}
+        >
+          REZULTATI
+        </Link>
+        <Link
+          to="/tablica"
+          className={HeaderStyle.navbarName}
+          activeClassName={HeaderStyle.navbarName__active}
+        >
+          TABLICA
+        </Link>
+        <Link
+          to="/timovi"
+          className={HeaderStyle.navbarName}
+          activeClassName={HeaderStyle.navbarName__active}
+        >
+          TIMOVI
+        </Link>
+        <Link
+          to="/novosti"
+          className={HeaderStyle.navbarName}
+          activeClassName={HeaderStyle.navbarName__active}
+        >
+          NOVOSTI
+        </Link>
+        <Link
+          to="/prijava"
+          className={HeaderStyle.navbarName}
+          activeClassName={HeaderStyle.navbarName__active}
+        >
+          PRIJAVA
+        </Link>
+      </div>
+    </Navbar>
+  )
 }
 
 export default Header

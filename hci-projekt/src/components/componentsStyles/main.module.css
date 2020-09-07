@@ -1,0 +1,14 @@
+.main {
+  margin-top: 85px;
+  /* margin-bottom: 180px; */
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    margin-top: 67px;
+    /* margin-bottom: 135px; */
+  }
+}
