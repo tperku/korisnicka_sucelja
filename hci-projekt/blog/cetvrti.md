@@ -1,6 +1,7 @@
 ---
 title: "Plenum HRS-a: Klubovi jednogalsno podržali promjene"
 date: "2020-09-03"
+image: "./cetvrtaSlika.jpg"
 ---
 
 U danu dok je SEHA – Gazprom liga mirovala, Hrvatski rukometni savez održao je radni sastanak s predstavnicima klubova 1. Hrvatske rukometne lige za žene i Paket 24 Premijer lige i pri tome ih upoznao sa svim novostima koje je HRS pripremao posljednjih mjeseci u doba korona krize, a koje bi trebale pomoći da se unaprijedi cijeli sustav rada, natjecanja i međusobne komunikacije.

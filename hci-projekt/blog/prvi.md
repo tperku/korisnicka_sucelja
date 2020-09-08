@@ -1,10 +1,8 @@
 ---
 title: "SEHA – Gazprom liga: Veszprem pobjednik treći put!"
 date: "2020-09-06"
-# picture: "prvaSlika.jpg"
+image: "./prvaSlika.jpg"
 ---
-
-<!-- ![](./prvaSlika.jpg) -->
 
 Veliko finale devetog izdanja SEHA – Gazprom lige pripalo je prema očekivanju, rukometašima Telekom Veszprema. Rekorder po broju naslova, skopski Vardar 1961, nije uspio ozbiljnije parirati klasi sastava koji je po mnogima jedan od najboljih na svijetu ovoga trenutka.
 

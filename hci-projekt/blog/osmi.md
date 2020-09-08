@@ -1,6 +1,7 @@
 ---
 title: "EHF EURO M20: Hrvatska domaćin u siječnju 2021.!"
 date: "2020-06-26"
+image: "./osmaSlika.jpg"
 ---
 
 Nakon što su Austrija i Italija (Innsbruck i Brixenn) nedavno odustali od domaćinstva Europskog juniorskog rukometnog prvenstva 2020. godine, Hrvatski rukometni savez se kandidirao za domaćinstvo tog natjecanja na osnovu međunarodnog tendera i uspio ga dobiti u konkurenciji uz Izrael i Italiju.

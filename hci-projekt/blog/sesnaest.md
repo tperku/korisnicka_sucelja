@@ -1,6 +1,7 @@
 ---
 title: "Udruga trenera nagrađuje svoje najuspješnije članove u 2019. godini"
 date: "2020-08-04"
+image: "./sesnaestaSlika.png"
 ---
 
 Poštovani prijatelji rukometa,

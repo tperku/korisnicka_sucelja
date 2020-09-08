@@ -1,6 +1,7 @@
 ---
 title: "SP 2021: Određen datum ždrijeba skupina Prvenstva"
 date: "2020-07-21"
+image: "./sedmaSlika.jpg"
 ---
 
 Hrvatska muška seniorska reprezentacija već tradicionalno ima rezerviran siječanj za veliko natjecanje. Sljedeće godine, točnije od 14. do 31. siječnja 2021., na rasporedu je Svjetsko prvenstvo kojem je domaćin Egipat.

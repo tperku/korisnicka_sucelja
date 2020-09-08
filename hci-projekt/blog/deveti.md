@@ -1,6 +1,7 @@
 ---
 title: "EHF EURO CUP 2020: Potvrđen raspored i uvjeti natjecanja"
 date: "2020-06-22"
+image: "./devetaSlika.jpg"
 ---
 
 Europska rukometna federacija (EHF) službeno je potvrdila već ranije najavljen raspored susreta EHF EURO Cupa 2020. godine. Također su definirali i uvjete pod kojima će dva domaćina Europskog prvenstva 2022. godine, Mađarska i Slovačka odnosno finalisti posljednjeg Prvenstva, Španjolska i Hrvatska igrati to natjecanje.

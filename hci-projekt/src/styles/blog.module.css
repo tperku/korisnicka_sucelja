@@ -1,0 +1,29 @@
+.page {
+  background-color: white;
+}
+.naslov {
+  text-transform: uppercase;
+  margin: 1em 0;
+  letter-spacing: 2px;
+  color: black;
+  text-align: center;
+}
+
+.slika {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.tijelo {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

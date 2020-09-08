@@ -2,7 +2,7 @@
   height: 85px;
   display: flex;
   justify-content: space-around;
-  background-color: #dd3333;
+  background-color: var(--primary-color);
   box-shadow: 0 0 10px 2px #92c5df;
 }
 
@@ -27,11 +27,11 @@
   align-self: center;
   padding: 0.2em;
   font-size: 2.5vw;
-  color: black;
+  color: var(--secondary-color);
 }
 
 .navbarName {
-  font-size: 2vw;
+  font-size: 1.7vw;
   font-weight: 600;
   margin: 0px 16px 0px 0px;
   padding: 5px 0px;

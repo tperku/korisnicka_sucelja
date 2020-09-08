@@ -1,6 +1,7 @@
 ---
 title: "EHF EURO 2020: Težak ždrijeb za naše rukometašice"
 date: "2020-06-18"
+image: "./jedanaestaSlika.jpg"
 ---
 
 U Beču su ždrijebom određene skupine Europskog prvenstva za rukometašice, koje zajednički organiziraju Danska i Norveška od 03. – 20. prosinca 2020. godine. Hrvatska nije imala previše sreće, jer je dobila vrlo zahtjevnu skupinu.

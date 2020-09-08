@@ -1,6 +1,7 @@
 ---
 title: "SP 2021: Dobra skupina za Hrvatsku"
 date: "2020-09-04"
+image: "./trecaSlika.jpg"
 ---
 
 U spektakularnoj svečanosti na platou Gize u Kairu ispred piramida, danas 4. rujna, održan je ždrijeb 27. Svjetskog rukometnog prvenstva kojemu će Egipat biti domaćin od 13. -31. siječnja 2021. godine. Hrvatska je dobila skupinu s kojom objektivno može biti zadovoljna. Tu su Katar, Japan i Angola.

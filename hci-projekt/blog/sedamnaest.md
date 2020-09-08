@@ -1,6 +1,7 @@
 ---
 title: "Červar: “Nismo se odrekli svojih snova i idemo dalje“"
 date: "2020-07-22"
+image: "./testSlika.jpg"
 ---
 
 Već nebrojeno puta dosad, bili smo svjedoci da je globalna kriza uzrokovana virusom Covid 19 središte svih zbivanja, no pravo je pitanje kako se suprotstaviti nevidljivom neprijatelju i pobijediti utakmicu? Upravo o tome govorili su gosti Handball Arene – rukometne sportske konferencije koja je održana danas, 22. srpnja 2020. godine u zagrebačkom hotelu Antunović.

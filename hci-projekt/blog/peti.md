@@ -1,6 +1,7 @@
 ---
 title: "EHF EURO Cup: Sa Slovačkom u Bratislavi, Mađare dočekujemo u Osijeku"
 date: "2020-08-06"
+image: "./petaSlika.jpg"
 ---
 
 Kao što je to uobičajeno kad su u pitanju natjecanja pod kapom Europske rukometne federacije (EHF), zemlje domaćini dužne su tri mjeseca ranije prijavite datume i gradove u kojima će se igrati susreti. Tako je i s EHF EURO Cupom, natjecanjem u kojem će sudjelovati hrvatska muška rukometna reprezentacija zajedno s Mađarskom, Slovačkom i Španjolskom. Sve te reprezentacije, naime, imaju osiguran izravni plasman na sljedeću europsku smotru, pa im EHF EURO Cup služi kao dobra provjera forme, ali i za i uigravanje, odnosno za popunu termina kad ostale zemlje imaju kvalifikacije.

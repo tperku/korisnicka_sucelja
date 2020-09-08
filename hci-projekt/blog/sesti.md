@@ -1,6 +1,7 @@
 ---
 title: "SP 2021: Hrvatska u prvom šeširu očekuje ždrijeb 5. rujna!"
 date: "2020-07-23"
+image: "./sestaSlika.jpg"
 ---
 
 Međunarodna rukometna federacija (IHF) odredila je šešire za ždrijeb Svjetskog prvenstva koje je na rasporedu od 14. do 31. siječnja 2021. u Egiptu. Unatoč epidemiološkoj situaciji, svjetska smotra u dalekom Egiptu trebala bi biti prvo veliko rukometno natjecanje na kojem će sudjelovati 32 momčadi.

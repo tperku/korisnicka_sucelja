@@ -1,6 +1,7 @@
 ---
 title: "Delegacija HRS-a na svečanosti INE u Vukovoj Gorici"
 date: "2020-07-03"
+image: "./osamnaestaSlika.jpg"
 ---
 
 INA je jedan od najdugovječnijih i najvjernijih poslovnih partnera Hrvatskog rukometnog saveza (HRS-a). Stoga je razumljivo da je delegacija HRS-a bila prisutna na svečanosti u Vukovoj Gorici. Predvodio ju je glavni tajnik HRS-a Damir Poljak, direktor marketinga Silvijo Njirić, direktor SEHA – Gazprom lige Siniša Ostoić, ali i hrvatski rukometni reprezentativac Zlatko Horvat.

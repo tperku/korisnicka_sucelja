@@ -1,6 +1,7 @@
 ---
 title: "EHF EURO 2022: Ždrijeb kvalifikacija"
 date: "2020-06-16"
+image: "./probnaSlika.jpg"
 ---
 
 U središtu Europske rukometne federacije (EHF) u Beču, obavljen je ždrijeb kvalifikacijskih skupina za Europsko prvenstvo 2022. godine koje zajednički organiziraju Mađarska i Slovačka.

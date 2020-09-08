@@ -1,6 +1,7 @@
 ---
 title: "Odgođen 44. Središnji seminar Udruge trenera HRS-a"
 date: "2020-08-28"
+image: "./trinaestaSlika.png"
 ---
 
 Poštovani sportski prijatelji,

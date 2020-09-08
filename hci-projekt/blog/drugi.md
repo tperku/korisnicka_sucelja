@@ -1,6 +1,7 @@
 ---
 title: "EHF Europska liga: Od tri prilike, nijedan prolaz"
 date: "2020-09-05"
+image: "./drugaSlika.jpg"
 ---
 
 Od tri hrvatska kluba koji su igrali uzvratne susrete 1. kola EHF Europske lige, dalje je prošla jedino Dubrava. Gorica je doživjela težak poraz od rumunjske Potaise Turde 27:32, čime su ispustili svoju prednost iz prvog susreta od plus dva. Dubrava je pak teško stradala od Kriens – Luzerna 19:28, jedinu pobjedu izborila je vinkovačka Spačva protiv Metalurga 29:25, ali im to nažalost nije bilo dovoljno za prolaz dalje jer su prvi susret izgubili sa sedam razlike.

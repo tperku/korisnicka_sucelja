@@ -1,0 +1,35 @@
+.title {
+  text-transform: uppercase;
+  margin: 1em 0;
+  letter-spacing: 2px;
+  color: black;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.slika {
+  max-width: 75px;
+  max-height: 75px;
+}
+
+.kartica {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+  width: 300px;
+}
+
+.zaslon {
+  display: flex;
+  justify-content: space-around;
+}
+
+@media screen and (max-width: 768px) {
+  .zaslon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

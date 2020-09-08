@@ -21,7 +21,7 @@ const Header = props => {
           alt="Logo"
           width="100%"
         />
-        <h1 className={HeaderStyle.logoName}>1HRL-JUG</h1>
+        <h1 className={HeaderStyle.logoName}>1.HRL-JUG</h1>
       </NavbarBrand>
       <div className={HeaderStyle.navbarNames}>
         <Link

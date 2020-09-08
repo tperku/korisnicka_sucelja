@@ -1,6 +1,7 @@
 ---
 title: "Kup Hrvatske: Osmina finala"
 date: "2020-03-13"
+image: "./devetnaestaSlika.jpg"
 ---
 
 Dok su trajali dogovori nacionalnih saveza SDUŠ-a i HOO-a o održavnaju natjecanja ili njihovom otkazivanju, neki su naši klubovi bili brži od njih i korona virusa, pa su uspjeli odigrati pet susreta osmine finala hrvatskog rukometnog kupa. Sesvete i Nexe svoj međusobni susret odigrali su prije desetak dana. Većih iznenađenje nije bilo, osim ako to za nekoga nije pobjeda Vidovca nad Čakovcem koji je prošle sezone bio sudionik završnice u Poreču.

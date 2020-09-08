@@ -1,6 +1,7 @@
 ---
 title: "EHF EURO 2020: Poznata satnica nastupa rukometašica"
 date: "2020-06-20"
+image: "./desetaSlika.jpg"
 ---
 
 Dva dana nakon ždrijeba skupina Europskog rukometnog prvenstva koje zajednički organiziraju Danska i Norveška od 03. – 20. prosinca 2020. godine, Europska rukometna federacija i domaćini natjecanja definirali su kompletnu satnicu natjecanja.

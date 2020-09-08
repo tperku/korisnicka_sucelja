@@ -4,8 +4,6 @@ date: "2020-08-29"
 image: "./cetrnaestaSlika.jpg"
 ---
 
-<img src="./cetrnaestaSlika.jpg"/>
-
 Dugoočekivana sjednica Upravnog odbora Hrvatskog rukometnog saveza (HRS-a) održana je 25. kolovoza 2020. godine, u Zagrebu. Tom prigodom rečeno je kako je korona kriza (COVID – 19) iz temelja uzdrmala cijeli svijet pa tako i sport, a osobito rukomet. Nakon gotovo šest mjeseci bez natjecanja, nova sezona je pred vratima.
 
 Hrvatski rukometni savez nije ni jednog trenutka mirovao tijekom tog prisilnog prekida. Dapače, pripremio je i osmislio brojne novosti koje ćemo ugraditi u sezonu koja je pred nama – od digitalizacije cijelog Saveza i sustava, sređivanja baze podataka kompletne rukometne obitelji, do promjena u sastavu liga i sustavima natjecanja kod mlađih dobnih uzrasta.

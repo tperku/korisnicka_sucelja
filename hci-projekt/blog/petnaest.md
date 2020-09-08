@@ -1,6 +1,7 @@
 ---
 title: "HRS predlaže Zlatka Matešu za predsjednika Hrvatskog olimpijskog odbora"
 date: "2020-08-25"
+image: "./petnaestaSlika.jpg"
 ---
 
 Na današnjoj sjednici Upravnog odbora Hrvatski rukometni savez jednoglasno je predložio da se Zlatka Matešu izabere za novog predsjednika Hrvatskog olimpijskog odbora za mandatno razdoblje 2020. – 2024. godine.

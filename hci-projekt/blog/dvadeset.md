@@ -1,6 +1,7 @@
 ---
 title: "Odluka IHF-a i iznimna čast za Igora Vorija"
 date: "2020-04-29"
+image: "./dvadesetaSlika.jpg"
 ---
 
 Svjetska rukometna federacija (IHF) je na svom posljednjem Kongresu u Kairu, potkraj veljače ove godine, donijela još jednu jako važnu i vrijednu odluku za hrvatski rukomet, odnosno sportskog direktora hrvatskih muških selekcija, Igora Vorija.

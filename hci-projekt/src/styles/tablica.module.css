@@ -7,10 +7,56 @@
   max-width: 1000px;
 }
 
-.logoKluba {
-  width: 2.5vw;
+.tablicaDiv {
+  max-width: 600;
 }
 
-.idKluba {
-  display: flex;
+.mainTable {
+  background-color: #a81616 !important;
+  color: white;
+}
+
+.secondaryTable:hover {
+  background-color: #ffd1d1 !important;
+}
+
+tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+
+tr:nth-child(even) {
+  background-color: var(--secondary-color);
+}
+
+.tablicaDiv {
+  margin-bottom: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.tablicaTitle {
+  text-transform: uppercase;
+  margin: 1em 0;
+  letter-spacing: 2px;
+  color: black;
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+  .tablicaDiv {
+    margin-bottom: 80px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .responsiveTable {
+    display: none;
+  }
+
+  td {
+    padding: 0 0 0 5px !important;
+  }
+
+  th {
+    padding: 0 0 0 5px !important;
+  }
 }
